@@ -1,3 +1,3 @@
 Here is some text.
-Here is some more text.
-EVEN MORE TEXT!
+Here is some text i added in the new branch.
+
